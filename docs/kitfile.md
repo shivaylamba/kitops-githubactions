@@ -1,3 +1,5 @@
+# This is a reference kitfile
+
 manifestVersion: 1.0.0
 package:
   name: llama3
@@ -16,5 +18,3 @@ code:
     description: Readme file.
   - path: docs/USE_POLICY.md
     description: Use policy file.
-  - path: docs/kitfile.md
-    description: Reference Kitfile.
